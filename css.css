@@ -1,0 +1,87 @@
+P
+{
+    LINE-HEIGHT: 135%
+}
+BODY
+{
+    MARGIN-TOP: 3px;
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: 宋体
+}
+TABLE
+{
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: 宋体
+}
+INPUT
+{
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: 宋体
+}
+TD
+{
+    FONT-SIZE: 9pt;
+    FONT-FAMILY: 宋体
+}
+A
+{
+    COLOR: #000000;
+    FONT-FAMILY: 宋体;
+    TEXT-DECORATION: none
+}
+A:hover
+{
+    COLOR: green;
+    FONT-FAMILY: 宋体;
+    TEXT-DECORATION: underline
+}
+.input
+{
+	scrollbar-face-color:#5EC707;
+	scrollbar-shadow-color:#eefee0;
+	scrollbar-highlight-color:#eefee0;
+	scrollbar-3dlight-color:#eefee0;
+	scrollbar-darkshadow-color:#eefee0;
+	scrollbar-track-color:#eefee0;
+	scrollbar-arrow-color:#eefee0;
+	BORDER: #5EC707 1px solid;
+    FONT-SIZE: 9pt;
+    BACKGROUND: none
+}
+.backs
+{
+    BACKGROUND-COLOR: #3f8805
+}
+.backts
+{
+    BACKGROUND-COLOR: #2c5c03
+}
+.backq
+{
+    BACKGROUND-COLOR: #eefee0
+}
+.backb
+{
+    BACKGROUND-COLOR: #ffffff
+}
+.backc
+{
+    BORDER-RIGHT: medium none;
+    BORDER-TOP: medium none;
+    BACKGROUND-IMAGE: url(images/greenbutton.gif);
+    BORDER-LEFT: medium none;
+    WIDTH: 50px;
+    COLOR: #ffffff;
+    BORDER-BOTTOM: medium none;
+    HEIGHT: 16px
+}
+SELECT
+{
+    FONT-SIZE: 9pt;
+    COLOR: #000000;
+    FONT-FAMILY: 宋体
+}
+.fonts
+{
+    COLOR: #3f8805
+}
